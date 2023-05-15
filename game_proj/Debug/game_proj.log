@@ -1,0 +1,19 @@
+﻿  AssetManager.cpp
+  Collision.cpp
+  Game.cpp
+C:\Users\August\Code\Project\game_proj\game_proj\Game.cpp(183,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\August\Code\Project\game_proj\game_proj\Game.cpp(184,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\August\Code\Project\game_proj\game_proj\ECS\ECS.h(94,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\August\Code\Project\game_proj\game_proj\Game.cpp(118,61): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int,int,int,int>(int &&,int &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Map.cpp
+  main.cpp
+  Generating Code...
+  game_proj.vcxproj -> C:\Users\August\Code\Project\game_proj\Debug\game_proj.exe

@@ -1,0 +1,13 @@
+MAIN To do list:
+
+- fix hitbox bug (if cna't just delete the collider)
+- Add enemy component (boss)
+- Add attack
+- Add potion to transform
+
+Optional (But should include to a game)
+- More level
+- point
+- Create animation for enemy
+- Add more map layers
+- fix animation bug
